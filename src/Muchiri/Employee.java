@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Employee {
 
-    double a,b,c;
+    double a,b;
     double bonus=0;
 
 
